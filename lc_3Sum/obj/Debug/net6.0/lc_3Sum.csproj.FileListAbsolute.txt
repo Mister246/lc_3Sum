@@ -1,0 +1,15 @@
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum\lc_3Sum\bin\Debug\net6.0\lc_3Sum.exe
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum\lc_3Sum\bin\Debug\net6.0\lc_3Sum.deps.json
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum\lc_3Sum\bin\Debug\net6.0\lc_3Sum.runtimeconfig.json
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum\lc_3Sum\bin\Debug\net6.0\lc_3Sum.dll
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum\lc_3Sum\bin\Debug\net6.0\lc_3Sum.pdb
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum\lc_3Sum\obj\Debug\net6.0\lc_3Sum.csproj.AssemblyReference.cache
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum\lc_3Sum\obj\Debug\net6.0\lc_3Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum\lc_3Sum\obj\Debug\net6.0\lc_3Sum.AssemblyInfoInputs.cache
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum\lc_3Sum\obj\Debug\net6.0\lc_3Sum.AssemblyInfo.cs
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum\lc_3Sum\obj\Debug\net6.0\lc_3Sum.csproj.CoreCompileInputs.cache
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum\lc_3Sum\obj\Debug\net6.0\lc_3Sum.dll
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum\lc_3Sum\obj\Debug\net6.0\refint\lc_3Sum.dll
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum\lc_3Sum\obj\Debug\net6.0\lc_3Sum.pdb
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum\lc_3Sum\obj\Debug\net6.0\lc_3Sum.genruntimeconfig.cache
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_3Sum\lc_3Sum\obj\Debug\net6.0\ref\lc_3Sum.dll
